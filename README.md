@@ -2,7 +2,7 @@
 
 Replication code for a policy-analysis paper on the French municipal gender-quota
 reform (Sciences Po, M1 policy analysis project, 2026). The full paper is in
-[`paper/gender_quotas_paper.pdf`](paper/gender_quotas_paper.pdf) (LaTeX source in [`paper/latex/`](paper/latex/)).
+[`paper/gender_quotas_paper.pdf`](paper/gender_quotas_paper.pdf).
 
 **Authors:** Zélie Barreteau, Justine Duplessis, Prune Legrand, Marianne Patte, Gabrielle Piorka
 
