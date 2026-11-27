@@ -1,0 +1,25 @@
+# Data (public but large; see data/raw/README.md)
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+
+# R / RStudio
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+paper/latex/main.pdf
